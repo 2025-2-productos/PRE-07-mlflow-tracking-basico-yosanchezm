@@ -1,7 +1,7 @@
 ## Se importa MLflow
 import uuid
 
-import mlflow
+import mlflow  # type: ignore
 
 from ._internals.calculate_metrics import calculate_metrics
 from ._internals.parse_argument import parse_argument
