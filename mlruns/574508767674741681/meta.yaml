@@ -1,0 +1,6 @@
+artifact_location: file:///home/camilosanchez/Documentos/UN/Productos de Datos/PRE-07-mlflow-tracking-basico-yosanchezm/mlruns/574508767674741681
+creation_time: 1765038542938
+experiment_id: '574508767674741681'
+last_update_time: 1765038542938
+lifecycle_stage: active
+name: wine_quality_experiment
